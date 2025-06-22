@@ -99,7 +99,7 @@ The integrated dashboard provides:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hyperspectral-landcover.git
+git clone
 cd hyperspectral-landcover
 
 # Install dependencies
